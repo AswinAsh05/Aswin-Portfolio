@@ -4,14 +4,14 @@
 
 
 ## 🌐 Live Demo  
-🔗 [Visit My Portfolio](#) _(Add your link here)_  
+🔗 [Visit My Portfolio](#) 
 
 ---
 
 ## 📫 Contact Me  
 📧 Email: aswinash301102@gmail.com  
 📱 Phone: +91 9080984963  
-🌐 [LinkedIn](https://www.linkedin.com/in/aswinm)  
+🌐 [LinkedIn](https://www.linkedin.com/in/aswinash05)  
 
 ---
 
