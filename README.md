@@ -17,6 +17,6 @@
 
 🚀 **Let's connect & collaborate!**
 ## 🛠 How to Run Locally  
-1. Clone this repository:  
-   ```sh
-   git clone https://github.com/AswinM/Portfolio.git
+Copy the HTML & CSS file given in this Repo...you can modify as per your needs 
+
+# 🚀 Thank You...
